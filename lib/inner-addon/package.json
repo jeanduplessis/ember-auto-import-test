@@ -1,0 +1,13 @@
+{
+  "name": "inner-addon",
+  "keywords": [
+    "ember-addon"
+  ],
+  "dependencies": {
+    "babel-plugin-htmlbars-inline-precompile": "0.2.5",
+    "ember-cli-babel": "6.14.1",
+    "ember-cli-htmlbars": "2.0.3",
+    "ember-cli-htmlbars-inline-precompile": "1.0.3",
+    "ua-parser-js": "~0.7.18"
+  }
+}
